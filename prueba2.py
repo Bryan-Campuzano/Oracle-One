@@ -1,0 +1,2 @@
+ejercicio = "ejemplo"
+print(ejercicio)
