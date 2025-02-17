@@ -1,2 +1,0 @@
-ejercicio = "ejemplo"
-print(ejercicio)
