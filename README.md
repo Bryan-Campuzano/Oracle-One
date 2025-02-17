@@ -39,4 +39,4 @@ El repositorio está organizado en las siguientes fases:
 * Gracias a Oracle y Alura Latam por la oportunidad
 ---
 
-⌨️ con ❤️ por [Bryan Campuzano](https://github.com/Bryan-Campuzano) *Equipo de LocalTrack* 😊
+⌨️ con ❤️ por [Bryan Campuzano](https://github.com/Bryan-Campuzano) 😊
